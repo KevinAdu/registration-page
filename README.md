@@ -1,6 +1,8 @@
 registration-page
 =================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/KevinAdu/registration-page.svg)](https://greenkeeper.io/)
+
 ## Summary 
 
 This project is a simple page which allows the user to register for an event using an HTML form.
